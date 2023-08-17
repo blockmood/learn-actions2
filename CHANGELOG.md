@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/blockmood/learn-actions2/compare/v1.0.0...v1.1.0) (2023-08-17)
+
+
+### Features
+
+* **order:** test ([3e404a7](https://github.com/blockmood/learn-actions2/commit/3e404a70424d816b23471228d22db919dfadec94))
+
 # 1.0.0 (2023-08-17)
 
 
