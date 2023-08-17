@@ -1,0 +1,1 @@
+console.log('获取到值2了', process.env.REACT_APP_TEST)

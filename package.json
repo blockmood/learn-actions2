@@ -1,0 +1,30 @@
+{
+  "name": "learn-actions",
+  "version": "1.0.13",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockmood/learn-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockmood/learn-actions/issues"
+  },
+  "homepage": "https://github.com/blockmood/learn-actions#readme",
+  "dependencies": {
+    "bumpp": "^9.1.1"
+  },
+  "devDependencies": {
+    "@jsdevtools/version-bump-prompt": "^6.1.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^21"
+  }
+}
