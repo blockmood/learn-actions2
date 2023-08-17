@@ -5,7 +5,7 @@
   "main": "node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semantic-release"
+    "release": "npx semantic-release"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/blockmood/learn-actions2#readme",
   "dependencies": {
-    "bumpp": "^9.1.1"
   },
   "devDependencies": {
     "@jsdevtools/version-bump-prompt": "^6.1.0",
