@@ -1,1 +1,1 @@
-console.log('改动了', process.env.REACT_APP_TEST)
+console.log('改动了小版本', process.env.REACT_APP_TEST)
