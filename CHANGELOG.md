@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/blockmood/learn-actions2/compare/v1.1.0...v1.1.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* **ls:** 小改动 ([f1fd2a5](https://github.com/blockmood/learn-actions2/commit/f1fd2a54fc2277686939464322668d24442ad655))
+
 # [1.1.0](https://github.com/blockmood/learn-actions2/compare/v1.0.0...v1.1.0) (2023-08-17)
 
 
