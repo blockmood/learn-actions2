@@ -1,1 +1,1 @@
-console.log('获取到值2了', process.env.REACT_APP_TEST)
+console.log('获取到值233了', process.env.REACT_APP_TEST)
