@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockmood/learn-actions.git"
+    "url": "git+https://github.com/blockmood/learn-actions2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blockmood/learn-actions/issues"
+    "url": "https://github.com/blockmood/learn-actions2/issues"
   },
-  "homepage": "https://github.com/blockmood/learn-actions#readme",
+  "homepage": "https://github.com/blockmood/learn-actions2#readme",
   "dependencies": {
     "bumpp": "^9.1.1"
   },
